@@ -1,1 +1,3 @@
 # Specialized-Cross-Chain-Communication-on-Nolus
+
+The research topic focuses on specialized cross-chain communication within the Nolus appchain, aiming to develop robust mechanisms that facilitate seamless interactions between Nolus and other blockchain ecosystems. By leveraging protocols like Wormhole and Inter-Blockchain Communication (IBC), the goal is to enhance interoperability, allowing for efficient token transfers, data exchange, and collaborative functionalities across various EVM-compatible and Cosmos-based chains. This work seeks to address challenges in cross-chain communication, ultimately contributing to a more interconnected and efficient blockchain landscape.
